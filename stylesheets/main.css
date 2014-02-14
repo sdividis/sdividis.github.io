@@ -2,18 +2,18 @@
 
 #main{
 text-align: center;
-
 }
 
 body{
 	background-image:url('../images/b1.png');
 	margin-left: 20%; 
 	margin-right: 20%; 
+	margin-top:20%;
 }
 
 
 footer{
-	margin-top:20%;
+	margin-bottom:10%;
 	text-align: center;
     vertical-align: bottom;
 }
@@ -22,7 +22,6 @@ footer{
 h1{
 	color:white;
 	text-align: center;
-	font-size:1000%;
 }
 
 h2{	
